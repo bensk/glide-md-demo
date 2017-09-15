@@ -48,7 +48,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 # Image
 
-![alt text goes here](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Tooltip text goes here](https://media.giphy.com/media/IJyR0TbOjaZpu/giphy.gif "A Glider glides on GLIDE!")
 
 # Table
 
