@@ -17,7 +17,9 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-# Note that you need to hit enter twice to make a line break or a paragraph.
+## Note that you need to hit enter twice to make a line break or a paragraph.
+
+# List
 
 1. First ordered list item
 2. Another item
